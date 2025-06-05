@@ -1,5 +1,47 @@
-# 💫 About Me:
-👨‍💻 About Me<br>I’m Shashwat Singh, an AI Engineer with hands-on experience in building intelligent systems that combine deep learning, natural language processing, and vector-based retrieval. I specialize in end-to-end solution development — from data preprocessing and modeling to deployment and automation.<br><br>🔧 Technical Expertise<br>AI & Machine Learning: CNN, RNN, LSTM, GRU, Bidirectional RNN, RAG, Fine-Tuning, Prompt Engineering<br><br>Frameworks & Libraries: LangChain, CrewAI, Hugging Face, Ollama, TensorFlow<br><br>LLMs & APIs: OpenAI, Groq, Llama3, Claude, Stable Diffusion, AWS AI, Azure AI<br><br>Vector Stores: AstraDB, Pinecone, ChromaDB, FAISS<br><br>Programming & Tools: Python, SQL (MySQL, PostgreSQL), Pandas, NumPy, Matplotlib<br><br>Protocols: Model Context Protocol (MCP)<br><br>🚀 Key Projects<br>AgriGPT – CNN-based plant disease diagnosis with LangChain-powered multilingual treatment generation and PDF export<br><br>AICSA – Multi-agent AI career and study assistant with Streamlit UI, CrewAI agents, and document handling<br><br>AI Email Manager – Natural language email interface using Claude and MCP for sending and reading emails<br><br>📊 Industry Experience<br>Data Analyst Intern at Nest India<br><br>Performed sentiment analysis, automated preprocessing workflows, and delivered actionable dashboards<br><br>Achieved a 40% improvement in analysis turnaround and 35% boost in insight accuracy<br><br>📫 Contact<br>Email: shashwatsingh0511@gmail.com<br><br>LinkedIn: linkedin.com/in/shashwat-singh-49663a251<br><br>Portfolio: AI Engineer Portfolio<br><br>
+# 💫 About Me
+
+👨‍💻 **I'm Shashwat Singh**, an AI Engineer passionate about building intelligent systems that bridge deep learning, NLP, and vector-based retrieval. I specialize in end-to-end AI solutions — from data preprocessing and modeling to deployment and automation.
+
+---
+
+## 🔧 Technical Expertise
+
+- **AI & Machine Learning**: CNN, RNN, LSTM, GRU, Bidirectional RNN, RAG, Fine-Tuning, Prompt Engineering  
+- **Frameworks & Libraries**: LangChain, CrewAI, Hugging Face, Ollama, TensorFlow  
+- **LLMs & APIs**: OpenAI, Groq, Llama3, Claude, Stable Diffusion, AWS AI, Azure AI  
+- **Vector Databases**: AstraDB, Pinecone, ChromaDB, FAISS  
+- **Programming & Tools**: Python, SQL (MySQL, PostgreSQL), Pandas, NumPy, Matplotlib  
+- **Protocols**: Model Context Protocol (MCP)  
+
+---
+
+## 🚀 Featured Projects
+
+- **AgriGPT**  
+  CNN-powered plant disease detection platform with multilingual treatment suggestions using LangChain + LLMs and auto-generated PDF reports.
+
+- **AICSA**  
+  AI Career & Study Assistant built using CrewAI agents and LangChain tools, featuring note generation, quiz creation, and code explanations via Streamlit.
+
+- **AI Email Manager**  
+  Email automation tool powered by Claude and FastMCP, enabling users to send/read emails using natural language commands.
+
+---
+
+## 💼 Industry Experience
+
+**Data Analyst Intern – Nest India** *(Jan 2025 – Mar 2025)*  
+- Performed sentiment analysis on fintech reviews, improving insight accuracy by 35%  
+- Automated preprocessing workflows, reducing analysis time by 40%  
+- Built interactive dashboards and SQL-driven insights for risk assessment and operations  
+
+---
+
+## 📫 Connect with Me
+
+- 📧 **Email**: [shashwatsingh0511@gmail.com](mailto:shashwatsingh0511@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/shashwat-singh-49663a251](https://www.linkedin.com/in/shashwat-singh-49663a251)  
+- 🌐 **Portfolio**: [AI Engineer Portfolio](https://shashwat051102.github.io/AI-Engineer-Portfolio/)
 
 
 ## 🌐 Socials:
