@@ -31,7 +31,6 @@ These projects implement full machine learning and deep learning pipelines integ
 - **[DL_MLFLOW](https://github.com/shashwat051102/DL_MLFLOW)**  
   Deep learning lifecycle project with MLflow for tracking and comparing experiments on custom datasets.
 
----
 
 ## Generative AI & Assistants (LLMs + Automation)
 
@@ -49,7 +48,7 @@ Projects in this category use large language models (LLMs), multi-agent systems,
 - **[Choice-Games](https://github.com/shashwat051102/Choice-Games)**  
   AI-enhanced interactive storytelling game driven by user decisions and dynamic narrative branching.
 
----
+
 ---
 
 ## 💼 Industry Experience
