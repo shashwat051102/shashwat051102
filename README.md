@@ -17,15 +17,39 @@
 
 ## 🚀 Featured Projects
 
-- **AgriGPT**  
-  CNN-powered plant disease detection platform with multilingual treatment suggestions using LangChain + LLMs and auto-generated PDF reports.
 
-- **AICSA**  
-  AI Career & Study Assistant built using CrewAI agents and LangChain tools, featuring note generation, quiz creation, and code explanations via Streamlit.
+## End-to-End ML & DL Pipelines
 
-- **AI Email Manager**  
-  Email automation tool powered by Claude and FastMCP, enabling users to send/read emails using natural language commands.
+These projects implement full machine learning and deep learning pipelines integrated with MLOps tools like MLflow and DVC for tracking, reproducibility, and deployment.
 
+- **[Stock_Sage_ML_pipeline](https://github.com/shashwat051102/Stock_Sage_ML_pipeline)**  
+  ML pipeline for stock price forecasting using LSTM, integrated with MLflow and DVC for complete MLOps.
+
+- **[Machine_learning_pipeline](https://github.com/shashwat051102/Machine_learning_pipeline)**  
+  General-purpose ML pipeline supporting model training, evaluation, and hyperparameter optimization with logging and model registry.
+
+- **[DL_MLFLOW](https://github.com/shashwat051102/DL_MLFLOW)**  
+  Deep learning lifecycle project with MLflow for tracking and comparing experiments on custom datasets.
+
+---
+
+## Generative AI & Assistants (LLMs + Automation)
+
+Projects in this category use large language models (LLMs), multi-agent systems, or generative pipelines for education, agriculture, productivity, and entertainment.
+
+- **[AgriGPT-own-model-](https://github.com/shashwat051102/AgriGPT-own-model-)**  
+  Multi-modal agri-assistant that integrates TensorFlow image classification with LangChain, HuggingFace embeddings, and Groq LLM for weather-aware disease diagnosis and treatment recommendations.
+
+- **[AICSA](https://github.com/shashwat051102/AICSA)**  
+  AI Career & Study Assistant using Streamlit and CrewAI that automates flashcard creation, resume review, academic summarization, and quiz generation from PDFs and URLs.
+
+- **[Email_MCP](https://github.com/shashwat051102/Email_MCP)**  
+  AI-powered email automation system that sends and manages messages with dynamic templates, useful for batch notifications and task automation.
+
+- **[Choice-Games](https://github.com/shashwat051102/Choice-Games)**  
+  AI-enhanced interactive storytelling game driven by user decisions and dynamic narrative branching.
+
+---
 ---
 
 ## 💼 Industry Experience
