@@ -70,101 +70,69 @@
 
 ## 🚀 Technical Skills
 
----
+<p align="center">
+  
+  <!-- AI & ML -->
+  <img src="https://img.shields.io/badge/CNN-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RNN-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LSTM-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GRU-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BiRNN-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fine--tuning-00CED1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge"/>
 
-### 🧠 AI & Machine Learning  
-CNN &nbsp;|&nbsp; RNN &nbsp;|&nbsp; LSTM &nbsp;|&nbsp; GRU &nbsp;|&nbsp; Bidirectional RNN  
-Prompt Engineering &nbsp;|&nbsp; RAG (Retrieval-Augmented Generation) &nbsp;|&nbsp; Fine-tuning  
-Scikit-Learn • PyTorch • TensorFlow • Seaborn • Deep Learning
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CrewAI-00CED1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ollama-202124?style=for-the-badge"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-0099CC?style=flat-square"/>
+  <!-- LLMs & APIs -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Llama3-gray?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Cognitive-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+
+  <!-- Vector DBs -->
+  <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pinecone-05ACAA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AstraDB-5A4FCF?style=for-the-badge"/>
+
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+  <!-- MLOps -->
+  <img src="https://img.shields.io/badge/MLflow-1D539F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DagsHub-FE5F55?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <!-- Protocols -->
+  <img src="https://img.shields.io/badge/MCP-gray?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API-blue?style=for-the-badge"/>
+
 </p>
 
----
-
-### 🧩 Frameworks  
-LangChain • CrewAI • Hugging Face Transformers • Ollama
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CrewAI-00CED1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFBF00?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ollama-202124?style=flat-square"/>
-</p>
-
----
-
-### 💬 LLMs & APIs  
-OpenAI (GPT Series) • Groq • LLaMA 3 • Stable Diffusion  
-AWS Bedrock • SageMaker • Azure Cognitive Services
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLaMA3-grey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/StableDiffusion-2E2E2E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AWS%20Bedrock-orange?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Cognitive-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-</p>
-
----
-
-### 🧠 Vector Databases  
-FAISS • Pinecone • ChromaDB • AstraDB
-
-<p align="left">
-  <img src="https://img.shields.io/badge/FAISS-009688?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Pinecone-05ACAA?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ChromaDB-9C27B0?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AstraDB-5A4FCF?style=flat-square"/>
-</p>
-
----
-
-### 🛠 Programming & Tools  
-Python (Pandas • NumPy • SciPy • Matplotlib)  
-SQL (MySQL • PostgreSQL) • Git • Tableau
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-</p>
-
----
-
-### ⚙️ MLOps  
-MLflow • DVC • DagsHub • Docker • GitHub • AWS Bedrock
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MLflow-1D539F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DagsHub-FE5F55?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 🌐 Protocols  
-Model Context Protocol (MCP) • OpenAPI • RESTful APIs
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MCP-grey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square"/>
-  <img src="https://img.shields.io/badge/REST%20API-blue?style=flat-square"/>
-</p>
 
 ---
 
